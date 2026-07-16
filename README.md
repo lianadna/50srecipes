@@ -1,4 +1,4 @@
-# Vintage Recipes
+# 50s Recipes
 A vintage-inspired recipe website featuring a collection of classic dessert recipes.
 The design is inspired by mid-century American cookbooks, featuring soft pastel colors, serif typography, and vintage recipe illustrations.
 
